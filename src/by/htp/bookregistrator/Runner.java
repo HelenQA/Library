@@ -29,9 +29,6 @@ public class Runner {
 		date = format.parse("14-02-1984");
 		el.addEmployee(3, "Oleg", date, "33@33");
 		
-		
-		
-		
 		NodeList nl = new NodeList(books, el);
 		nl.printNodeList();
 		
