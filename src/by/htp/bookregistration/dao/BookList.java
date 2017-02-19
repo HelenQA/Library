@@ -24,7 +24,7 @@ public class BookList {
 	
 	public void printBooks(){
 		for (Book book : books){
-			System.out.println(book);
+			System.out.println("test1=" + book);
 		}
 	}
 	
